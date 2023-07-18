@@ -5,6 +5,7 @@ This script helps in dividing a larger property into smaller ones, with each sma
 
 
  summarizing the Python script
+ 
     1-Import Modules: We import necessary Python libraries: qgis.core, qgis.processing for QGIS-based operations, and math for mathematical functions.
 
     2-Load Data: We load a shapefile containing land parcel data. If the file path is correct, it gets added to the QGIS project.
